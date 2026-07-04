@@ -64,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-> ⚠️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle so the stats cards render correctly.
+> ⚠️ Replace `FaisalHayat1122` above with your actual GitHub handle so the stats cards render correctly.
 
 ---
 
