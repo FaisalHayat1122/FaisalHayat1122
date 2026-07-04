@@ -1,5 +1,5 @@
 [README (1).md](https://github.com/user-attachments/files/29654192/README.1.md)
-<h1 align="center">Hi there, I'm Prince 👋</h1>
+<h1 align="center">Hi there, I'm Faisal Hayat 👋</h1>
 <h3 align="center">Python Developer | Data Scientist | AI Engineer</h3>
 
 <p align="center">
