@@ -1,72 +1,94 @@
-# Hi, I'm Faisal Hayat 👋
+[README (1).md](https://github.com/user-attachments/files/29654192/README.1.md)
+<h1 align="center">Hi there, I'm Prince 👋</h1>
+<h3 align="center">Python Developer | Data Scientist | AI Engineer</h3>
 
-**Data Scientist & ML Engineer** — turning raw data into actionable insights and building intelligent systems that solve real problems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faisal%20Hayat-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-hayat-85056b393/)
-
----
-
-## About Me
-
-I'm a passionate Data Scientist and ML Engineer with a strong foundation in Python and the modern data ecosystem. I enjoy working across the full data pipeline — from cleaning messy datasets to deploying interactive dashboards and machine learning models. I'm continuously learning and building, with a focus on making data useful and accessible.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+with+Python+%26+Data;Turning+Data+into+Decisions;Machine+Learning+%7C+AI+Engineering;Streamlit+Apps+%26+Dashboards" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+### 🚀 About Me
 
-### Languages & Core Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C5F8A?style=flat&logo=python&logoColor=white)
-
-### App Development & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-### Tools & Environment
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- 🐍 Python Developer with a strong focus on **Data Analysis** and **AI Engineering**
+- 📊 I turn raw data into insights using **Pandas**, **NumPy**, and **Scikit-learn**
+- 📓 I prototype and explore in **Jupyter Notebook**
+- 🌐 I build interactive data apps with **Streamlit**
+- 🗄️ I work with **data structures** and **databases**, including **SQL** and **PostgreSQL**
+- 📈 I visualize data stories with **Seaborn**
+- 🌱 Currently deepening my skills in Machine Learning and AI Engineering
+- 💬 Ask me about Python, data pipelines, or ML models
 
 ---
 
-## 📚 Currently Learning
+### 🛠️ Tech Stack
 
-- Advanced Machine Learning — model tuning, ensemble methods, and pipelines
-- Deep Learning fundamentals with TensorFlow / PyTorch
-- Data visualization best practices and storytelling with data
-- Building and deploying ML-powered Streamlit applications
-- Working with real-world unstructured data (images, documents, text)
-
----
-
-## 🚀 What I'm Building
-
-- Interactive data dashboards with **Streamlit** featuring multi-column layouts, image display, and file upload functionality
-- ML pipelines for exploratory data analysis and predictive modeling
-- Tools that bridge the gap between raw data and end-user insight
-
----
-
-## 📈 GitHub Stats
-
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
-
-> *Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to activate this card.*
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 💡 Skills Breakdown
 
-I'm always open to collaborating on data science projects, discussing ML ideas, or just connecting with fellow learners.
-
-- 💼 [LinkedIn — Faisal Hayat](https://www.linkedin.com/in/faisal-hayat-85056b393/)
+| Category | Skills |
+|---|---|
+| **Languages** | Python, SQL |
+| **Data Analysis** | Pandas, NumPy, Data Cleaning, EDA |
+| **Machine Learning** | Scikit-learn, Model Building & Evaluation |
+| **Visualization** | Seaborn, Matplotlib |
+| **App Development** | Streamlit |
+| **Databases** | PostgreSQL, Data Structures & Database Design |
+| **Tools** | Jupyter Notebook, Git/GitHub, VS Code |
 
 ---
 
-*"Data is not just numbers — it's the story waiting to be told."*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+> ⚠️ Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub handle so the stats cards render correctly.
+
+---
+
+### 📌 Featured Projects
+
+<!-- Add your project repositories here once available, e.g.: -->
+<!--
+- 🔗 [Project Name](https://github.com/YOUR_GITHUB_USERNAME/project-repo) — short description of what it does and the tech used.
+-->
+_Coming soon — projects will be added here as repositories are published._
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
