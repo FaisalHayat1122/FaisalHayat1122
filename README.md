@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/29654192/README.1.md)
+[[[[README (1).md](https://github.com/user-attachments/files/29654192/README.1.md)
 <h1 align="center">Hi there, I'm Faisal Hayat 👋</h1>
 <h3 align="center">Python Developer | Data Scientist | AI Engineer</h3>
 
@@ -92,3 +92,4 @@ _Coming soon — projects will be added here as repositories are published._
 ---
 
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
+](https://github.com/FaisalHayat1122)](https://github.com/FaisalHayat1122)https://github.com/FaisalHayat1122https://github.com/FaisalHayat1122](https://github.com/FaisalHayat1122)
